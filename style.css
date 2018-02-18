@@ -1,6 +1,23 @@
 blockquote {
   background-color: black;
 }
-.coming-soon {
-  text-align: center;
+html {
+   font-family: 'Chathura';
+ }
+
+body{
+  font-size: 60px;
+}
+
+#space{
+  height: 100px;
+  background-image: url("https://data.whicdn.com/images/290413386/original.gif");
+  background-repeat: no-repeat;
+  background-attachment: absolute;
+  background-position: center;
+  background-size: 80%;
+}
+
+nav {
+  height: 30px;
 }
