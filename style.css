@@ -3,10 +3,14 @@ blockquote {
 }
 html {
    font-family: 'Chathura';
+   font-size: 110%;
  }
 
 body{
-  font-size: 60px;
+  font-size: 100px;
+  background-image:url(https://i.pinimg.com/originals/b9/c1/83/b9c183e79ed58ad25d682f88ad9d654b.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 
 #space{
