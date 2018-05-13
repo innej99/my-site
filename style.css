@@ -25,3 +25,25 @@ body{
 nav {
   height: 30px;
 }
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+.links:hover {
+  text-shadow: 1px 1px 1px grey;
+  transition: 0.3s ease;
+}
+
+img:hover {
+  border-radius: 20px;
+  transition: 1s;
+}
+
+/* canvas {
+  display: block;
+  margin: auto;
+  background-color: #fff;
+  border: solid 1px #000;
+} */
